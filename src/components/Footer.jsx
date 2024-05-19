@@ -15,18 +15,18 @@ function Footer() {
                 have the perfect car to meet your needs.
               </li>
               <li>
-                <a href="tel:123456789">
-                  <IconPhoneCall /> &nbsp; (123) -456-789
+                <a href="tel:0413312349">
+                  <IconPhoneCall /> &nbsp; +61-413-312-349
                 </a>
               </li>
 
               <li>
                 <a
                   href="mailto: 
-                carrental@gmail.com"
+                adelaidecarrental@gmail.com"
                 >
                   <IconMail />
-                  &nbsp; carrental@gmail.com
+                  &nbsp; adelaidecarrental@gmail.com
                 </a>
               </li>
 

@@ -18,14 +18,14 @@ function Contact() {
                 years of experience.
               </p>
               <a href="/">
-                <IconPhone /> &nbsp; (123) 456-7869
+                <IconPhone /> &nbsp; +61-413-312-349
               </a>
               <a href="/">
-                <IconMail /> &nbsp; carrental@carmail.com
+                <IconMail /> &nbsp; adelaidecarrental@carmail.com
               </a>
               <a href="/">
                 <IconLocation />
-                &nbsp; Belgrade, Serbia
+                &nbsp; Adelaide, South Australia
               </a>
             </div>
             <div className="contact-div__form">
